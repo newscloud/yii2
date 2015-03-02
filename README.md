@@ -1,6 +1,8 @@
 Yii PHP Framework Version 2
 ===========================
 
+Testing changes for CodeShip.
+
 Thank you for choosing Yii 2 - a modern PHP framework designed for professional Web development.
 
 Yii 2 is a complete rewrite of its previous version Yii 1.1 which is one of the most popular PHP frameworks.
